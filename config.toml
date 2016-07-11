@@ -1,0 +1,40 @@
+baseurl = "https://techcultivation.org/"
+languageCode = "en-us"
+title = "A Non-Profit Home for Open Source Projects"
+theme = "hugo-creative-theme"
+relativeURLs = true
+uglyurls = true
+
+[params]
+name = "Center for the Cultivation of Technology"
+description = "a non-profit home for open source projects"
+
+# The path must be relative to the static folder
+favicon = "favicon.ico"
+
+# Navigation
+[params.navigation]
+brand = "Center for the Cultivation of Technology"
+		
+[[params.navigation.links]]
+    url = "./#subscribe"
+    text = "Subscribe to News"
+
+[[params.navigation.links]]
+    url = "./contact.html#team"
+    text = "Team"
+
+[[params.navigation.links]]
+    url = "./contact.html"
+    text = "Contact"
+
+# Hero section
+[params.hero]
+slogan     = "A non-profit home<br/> for your open source project"
+subtitle   = "The Center for the Cultivation of Technology is a charitable non-profit<br/> host organization for international Free Software projects."
+buttonText = "Learn more"
+
+# About section
+[params.about]
+headline    = "We're currently busy behind the scenes!"
+description = "Interested in more? Leave your e-mail address and we will get in touch when we open our doors!"

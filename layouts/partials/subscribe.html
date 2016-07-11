@@ -1,0 +1,22 @@
+{{ "<!-- SUBSCRIBE -->" | safeHTML }}
+<section class="bg-primary" id="subscribe">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 text-center">
+                <h2 class="section-heading">{{ with .Site.Params.about.headline }}{{ . }}{{ end }}</h2>
+                <hr class="light">
+                <p class="text-faded">{{ with .Site.Params.about.description }}{{ . | markdownify }}{{ end }}</p>
+            </div>
+            <div class="col-lg-4 col-lg-offset-4 text-center">
+                <p>
+                   <form method="POST" action="https://ml05.ispgateway.de/mailman/subscribe/announce_techcultivation.net">
+                    <div class="formgroup">
+                        <p><INPUT NAME="email" id="email" placeholder="email address" TYPE="email" class="form-control" required></p>
+                        <INPUT NAME="email-button" VALUE="subscribe to announcements" TYPE="submit" class="btn btn-default">
+                    </div>
+                   </form>
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
