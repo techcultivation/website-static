@@ -1,6 +1,7 @@
 +++
 title = "Contact"
 description = "Center for the Cultivation of Technology<br/>gemeinnuetzige GmbH i.Gr."
+regdata = "CEO: Stephan Urbach."
 
 type = "contact"
 address = ["Gottschedstrasse 4", "D-13357 Berlin", "Germany"]
