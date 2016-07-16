@@ -262,7 +262,7 @@ header a {
     margin-top: 0;
 }
 
-@media ( min-width: 768px ) {
+@media (min-width:992px) {
 .bottom-align {
     position: absolute;
     bottom: 50px;
