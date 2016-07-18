@@ -8,7 +8,7 @@ address = ["Gottschedstrasse 4", "D-13357 Berlin", "Germany"]
 
 [[contact.info]]
     link = ""
-    text = 'contact<span style="display:none">.nospam</span>@techcultivation.org'
+    text = 'contact<span class="hidden">.nospam</span>@techcultivation.org'
     icon = "envelope"
 
 [[contact.info]]
@@ -33,7 +33,7 @@ address = ["Gottschedstrasse 4", "D-13357 Berlin", "Germany"]
 
 [[team.member]]
     name = "Moritz Bartl"
-	photo = "moritz.png"
+	photo = "moritz.jpg"
     text = "Moritz Bartl serves as the Director of the Renewable Freedom Foundation. Active in the free software and hacker community for over 15 years, he is a core member of the Tor project, a fellow at the Hermes Center for Transparency, and works in close partnerships with international NGOs in both technology and tech policy areas. He studied computer science at TU Dresden, with a focus on privacy & anonymity, software engineering, project management, and machine learning. His project torservers.net brings together over 20 non-profit organizations in 14 countries, many of which were newly created for this purpose."
 
 [[team.member]]
