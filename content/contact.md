@@ -1,7 +1,7 @@
 +++
 title = "Contact"
-description = "Center for the Cultivation of Technology<br/>gemeinnuetzige GmbH i.Gr."
-regdata = "CEO: Stephan Urbach."
+description = "Center for the Cultivation of Technology<br/>gemeinnuetzige GmbH"
+regdata = "Handelsregister Berlin Charlottenburg, HRB 180673. CEO: Stephan Urbach."
 
 type = "contact"
 address = ["Gottschedstrasse 4", "D-13357 Berlin", "Germany"]
@@ -44,7 +44,7 @@ address = ["Gottschedstrasse 4", "D-13357 Berlin", "Germany"]
 [[team.member]]
     name = "Matija Šuklje"
     photo = "matija.jpg"
-    text = "Matija Šuklje serves as the General Legal Counsel of the Center for the Cultivation of Technology. He is a lawyer by profession and geek by heart, with almost two decades of active involvement in the FOSS scene and heaps of experience in both the ICT and legal NGO sector – most notably as FSFE’s Legal Coordinator. Matija enjoys explaining difficult legal issues to technical minds and technical details to lawyers."
+    text = "Matija Šuklje serves as the General Counsel of the Center for the Cultivation of Technology. He is a lawyer by profession and geek by heart, with almost two decades of active involvement in the FOSS scene and heaps of experience in both the ICT and legal NGO sector – most notably as FSFE’s Legal Coordinator. Matija enjoys explaining difficult legal issues to technical minds and technical details to lawyers."
 
 [[board.member]]
     name = "Claudio 'vecna' Agosti"
