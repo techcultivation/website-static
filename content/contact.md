@@ -19,7 +19,7 @@ address = ["Gottschedstrasse 4", "D-13357 Berlin", "Germany"]
 [[contact.info]]
     link = "https://gitlab.techcultivation.org/"
     text = "techcultivation on GitLab"
-    icon = "gitlab"
+    icon = "github"
 
 [[contact.info]]
     link = "tel:+4984113300781"
