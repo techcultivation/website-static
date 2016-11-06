@@ -22,6 +22,11 @@ address = ["Gottschedstrasse 4", "D-13357 Berlin", "Germany"]
     icon = "github"
 
 [[contact.info]]
+    link = "https://issues.techcultivation.org/projects/cct-orga/issues?query_id=1"
+    text = "open tickets on issue tracker"
+    icon = "list-ol"
+
+[[contact.info]]
     link = "tel:+4984113300781"
     text = "+49-841-13300-781"
     icon = "phone"
