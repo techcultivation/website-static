@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /preview/
+Disallow: /docs/
+
+User-agent: Googlebot-Image
+User-agent: MSNBot-Media
+User-agent: BingPreview
+Disallow: /
