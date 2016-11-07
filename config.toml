@@ -1,4 +1,4 @@
-baseurl = "https://techcultivation.org/"
+baseurl = "https://techcultivation.org/preview/"
 languageCode = "en-us"
 title = "A Non-Profit Home for Open Source Projects"
 theme = "hugo-creative-theme"
@@ -21,6 +21,10 @@ brand = "Center for the Cultivation of Technology"
     text = "Subscribe to News"
 
 [[params.navigation.links]]
+    url = "./#overview"
+    text = "Overview"
+
+[[params.navigation.links]]
     url = "./contact.html#team"
     text = "Team"
 
@@ -38,3 +42,27 @@ buttonText = "Learn more"
 [params.about]
 headline    = "We're currently busy behind the scenes!"
 description = "Interested in more? Leave your e-mail address and we will get in touch when we open our doors!"
+
+# Overview section
+[params.overview]
+headline = "Overview"
+ 
+[[params.overview.list]]
+icon = "fa-heart-o"
+title = "Donations"
+description = "Receive donations via various payment processors and fundraising platforms."
+ 
+[[params.overview.list]]
+icon = "fa-money"
+title = "Budget management"
+description = "Manage and allocate budgets, process reimbursements, contract and employ internationally."
+ 
+[[params.overview.list]]
+icon = "fa-cubes"
+title = "Asset Stewardship"
+description = "The Center can hold assets for a project, such as domain names, trademarks and copyright."
+ 
+[[params.overview.list]]
+icon = "fa-commenting"
+title = "Expert Network"
+description = "Knowledge sharing and exchange."

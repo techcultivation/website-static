@@ -64,6 +64,12 @@ p {
     background-color: #395839;
 }
 
+.bg-primary a {
+    font-weight: bold;
+    text-decoration: underline;
+    color: #ffffff;
+}
+
 .bg-dark {
     color: #fff;
     background-color: #222;
