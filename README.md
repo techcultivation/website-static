@@ -6,7 +6,7 @@ Our static website in the making based on [Hugo Creative Theme](http://themes.go
 
 ```
 sudo apt-get install hugo
-git clone https://github.com/cct/website-static
+git clone https://github.com/techcultivation/website-static
 cd website-static
 hugo server # to dynamically generate and serve static content on http://localhost:1313/
 hugo # a 'public' directory will be created with the generated website output
