@@ -1,4 +1,4 @@
-baseurl = "https://techcultivation.org/preview/"
+baseurl = "https://techcultivation.org/"
 languageCode = "en-us"
 title = "A Non-Profit Home for Open Source Projects"
 theme = "hugo-creative-theme"
