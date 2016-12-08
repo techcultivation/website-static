@@ -1,6 +1,7 @@
 User-agent: *
 Disallow: /preview/
 Disallow: /docs/
+Disallow: /~moritz/volatile/
 
 User-agent: Googlebot-Image
 User-agent: MSNBot-Media
