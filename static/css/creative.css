@@ -511,3 +511,7 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #222;
 }
+
+.img-logo {
+    height: 110px;
+}
