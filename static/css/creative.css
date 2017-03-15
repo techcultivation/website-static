@@ -512,6 +512,10 @@ body {
     webkit-tap-highlight-color: #222;
 }
 
+.padding-30 {
+    padding: 30px;
+}
+
 .img-logo {
     height: 110px;
 }
