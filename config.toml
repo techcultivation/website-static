@@ -41,7 +41,7 @@ buttonText = "Learn more"
 # About section
 [params.about]
 headline    = "Interested? Get in touch!"
-description = "We are ready for your project if you need <a href=\"contact.html\">help with larger grants and contracts</a>.<br/><br/>It will take us a while to build a platform to allow projects to easily interface with their budgets, and before we can manage individual donations to projects. Leave your e-mail address and we will get in touch as soon as we're there!"
+description = "We are ready for your project if you need <a href=\"contact.html\">help with grants and contracts</a>.<br/><br/>It will take us a while to build a platform to allow projects to easily interface with their budgets, and before we can manage individual donations to projects. Leave your e-mail address and we will get in touch as soon as we're there!"
 
 # Overview section
 [params.overview]
