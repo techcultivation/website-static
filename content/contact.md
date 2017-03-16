@@ -31,6 +31,11 @@ address = ["Gottschedstrasse 4", "13357 Berlin", "Germany"]
     text = "+49-841-13300-781"
     icon = "phone"
 
+[[contact.info]]
+    link = "/docs/cct-whitepaper.pdf"
+    text = "whitepaper (pdf)"
+    icon = "file-pdf-o"
+
 [[team.member]]
     name = "Stephan Urbach"
     photo = "tomate.jpg"
