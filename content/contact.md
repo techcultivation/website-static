@@ -1,7 +1,7 @@
 +++
 title = "Contact"
-description = "Center for the Cultivation of Technology<br/>gemeinnuetzige GmbH"
-regdata = "Handelsregister Berlin Charlottenburg, HRB 180673 B. CEO: Stephan Urbach."
+description = "Center for the Cultivation of Technology<br/>gemeinnuetzige GmbH<br/>Handelsregister Berlin Charlottenburg, HRB 180673 B. CEO: Stephan Urbach"
+regdata = ""
 
 type = "contact"
 address = ["Gottschedstrasse 4", "D-13357 Berlin", "Germany"]
