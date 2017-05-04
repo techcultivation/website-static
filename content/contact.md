@@ -51,11 +51,6 @@ address = ["Gottschedstrasse 4", "13357 Berlin", "Germany"]
 	photo = "martin.jpg"
     text = "Dr. Martin Modlinger is Director of Science and Culture at Renewable Freedom Foundation. In this position, he seeks to connect human rights activists and digital rights hackers with scholars, journalists, and the general public, in order to protect and preserve civil liberties, especially in the digital landscape. In the past, as a (cultural) historian by trade, he has dealt with utopian and dystopian visions in philosophy, literature, and history. Now he sees his role in translating visions of a better world into reality. He holds a PhD in German (History & Culture) from the University of Cambridge, and still picks up a book from time to time."
 
-[[team.member]]
-    name = "Matija Šuklje"
-    photo = "matija.jpg"
-    text = "Matija Šuklje serves as the General Counsel of the Center for the Cultivation of Technology. He is a lawyer by profession and geek by heart, with almost two decades of active involvement in the FOSS scene and heaps of experience in both the ICT and legal NGO sector – most notably as FSFE’s Legal Coordinator. Matija enjoys explaining difficult legal issues to technical minds and technical details to lawyers."
-
 [[board.member]]
     name = "Claudio 'vecna' Agosti"
     affiliation = "Tactical Tech, Globaleaks (Germany)"
@@ -106,7 +101,7 @@ address = ["Gottschedstrasse 4", "13357 Berlin", "Germany"]
 
 [[board.member]]
     name = "Liz Steininger"
-    affiliation = "previously Open Tech Fund (Germany)"
+    affiliation = "Least Authority (Germany)"
 
 [[board.member]]
     name = "Tiberiu-Cezar Tehnoetic"
@@ -120,4 +115,7 @@ address = ["Gottschedstrasse 4", "13357 Berlin", "Germany"]
     name = "Stefano Zacchiroli"
     affiliation = "Open Source Initiative, Debian Project"
 
+[[board.member]]
+    name = "Matija Šuklje"
+    affiliation = "(Slovenia)"
 +++
