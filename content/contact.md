@@ -69,7 +69,7 @@ address = ["Gottschedstrasse 4", "13357 Berlin", "Germany"]
 
 [[board.member]]
     name = "Matthias Kirschner"
-    affiliation = "Free Software Foundation Europe (Germany)"
+    affiliation = "Free Software Foundation Europe"
 
 [[board.member]]
     name = "Dr. Martin Krafft"
@@ -113,7 +113,7 @@ address = ["Gottschedstrasse 4", "13357 Berlin", "Germany"]
 
 [[board.member]]
     name = "Stefano Zacchiroli"
-    affiliation = "Open Source Initiative, Debian Project"
+    affiliation = "Open Source Initiative, Debian Project (France)"
 
 [[board.member]]
     name = "Matija Šuklje"
