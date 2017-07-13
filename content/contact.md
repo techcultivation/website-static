@@ -80,6 +80,10 @@ address = ["Gottschedstrasse 4", "13357 Berlin", "Germany"]
     affiliation = "Aspiration Tech (Germany)"
 
 [[board.member]]
+    name = "Ben Nickolls"
+    affiliation = "libraries.io (UK)"
+
+[[board.member]]
     name = "Niels ten Oever"
     affiliation = "Article19 (Netherlands)"
 
