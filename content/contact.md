@@ -51,6 +51,16 @@ address = ["Gottschedstrasse 4", "13357 Berlin", "Germany"]
 	photo = "martin.jpg"
     text = "Dr. Martin Modlinger is Director of Science and Culture at Renewable Freedom Foundation. In this position, he seeks to connect human rights activists and digital rights hackers with scholars, journalists, and the general public, in order to protect and preserve civil liberties, especially in the digital landscape. In the past, as a (cultural) historian by trade, he has dealt with utopian and dystopian visions in philosophy, literature, and history. Now he sees his role in translating visions of a better world into reality. He holds a PhD in German (History & Culture) from the University of Cambridge, and still picks up a book from time to time."
 
+[[team.member]]
+    name = "muesli"
+    photo = "muesli.png"
+    text = "Backend developer / Go"
+
+[[team.member]]
+    name = "morbi"
+    photo = "morbi.png"
+    text = "Frontend developer / Polymer"
+
 [[board.member]]
     name = "Claudio 'vecna' Agosti"
     affiliation = "Tactical Tech, Globaleaks (Germany)"
