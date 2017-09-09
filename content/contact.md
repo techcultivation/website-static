@@ -27,8 +27,8 @@ address = ["Gottschedstrasse 4", "13357 Berlin", "Germany"]
     icon = "list-ol"
 
 [[contact.info]]
-    link = "tel:+4984113300781"
-    text = "+49-841-13300-781"
+    link = "tel:+49301208359601"
+    text = "+49-30-120835-9601"
     icon = "phone"
 
 [[contact.info]]
