@@ -31,9 +31,9 @@ For other European countries and larger donations, we're happy to provide indivi
                     <p>To donate to the Tails project via SEPA wire transfer, use:</p>
                     <blockquote>
                         Account holder: Center for the Cultivation of Technology<br>
-                        Subject: <clip data-clipboard-target="#transactionId"><b><kbd id="transactionId">R43NGFR9 TAILS</kbd></b> <p class="btn btn-link"><i class="fa fa-copy" aria-hidden="true"></i> Copy</p></clip> <p class="btn btn-link" data-toggle="modal" data-target="#qrcode"><i class="fa fa-qrcode" aria-hidden="true"></i> Show QR Code</p>
-                        <p>IBAN: DE65 4306 0967 4111 9411 01
-                        <br>BIC: GENODEM1GLS
+                        Subject: <clip data-clipboard-target="#transactionId"><kbd id="transactionId">R43NGFR9 TAILS</kbd> <p class="btn btn-link"><i class="fa fa-copy" aria-hidden="true"></i> Copy Subject</p></clip> <p class="btn btn-link" data-toggle="modal" data-target="#qrcode"><i class="fa fa-qrcode" aria-hidden="true"></i> Show QR Code</p> 
+                        <br>IBAN: <clip data-clipboard-text="DE65430609674111941101"><kbd>DE65 4306 0967 4111 9411 01</kbd> <p class="btn btn-link"><i class="fa fa-copy" aria-hidden="true"></i> Copy IBAN</p></clip>
+                        <br>BIC: <clip data-clipboard-text="GENODEM1GLS"><kbd>GENODEM1GLS</kbd> <p class="btn btn-link"><i class="fa fa-copy" aria-hidden="true"></i> Copy BIC</p></clip>
                         <br>Bank: GLS Gemeinschaftsbank, Christstrasse 9, 44789 Bochum, Germany.
                     </blockquote>
                          <div id="qrcode" class="modal fade" tabindex="-1" role="dialog">
@@ -45,7 +45,7 @@ For other European countries and larger donations, we're happy to provide indivi
                          </div>
                     <p>For US ACH wire transfers, use:<p>
                     <blockquote>
-                        Account holder: Center for the Cultivation of Technology<br>Subject: <clip data-clipboard-target="#transactionId2"><b><kbd id="transactionId2">R43NGFR9 TAILS</kbd></b> <p class="btn btn-link clip"><i class="fa fa-copy" aria-hidden="true"></i> Copy</p></clip><br>Account number: 8310006087<br>ACH Routing number: 026073150<br>Wire routing number: 026073008<br>Bank: Transferwise, 19 W 24th Street, New York 10010, USA.
+                        Account holder: Center for the Cultivation of Technology<br>Subject: <clip data-clipboard-target="#transactionId2"><kbd id="transactionId2">R43NGFR9 TAILS</kbd> <p class="btn btn-link clip"><i class="fa fa-copy" aria-hidden="true"></i> Copy</p></clip><br>Account number: 8310006087<br>ACH Routing number: 026073150<br>Wire routing number: 026073008<br>Bank: Transferwise, 19 W 24th Street, New York 10010, USA.
                     </blockquote>
                     <p>
                     We are working on support for donations by credit card, Paypal, Bitcoin and gift vouchers.
@@ -60,6 +60,7 @@ For other European countries and larger donations, we're happy to provide indivi
         {{ partial "js.html" . }}
         <script src="js/clipboard.min.js"></script>
     <!-- instantiate clipboard by passing a list of HTML elements -->
+    <!--
     <script>
     var kbds = document.querySelectorAll('clip');
     var clipboard = new Clipboard(kbds);
@@ -70,6 +71,6 @@ For other European countries and larger donations, we're happy to provide indivi
         console.log(e);
     });
     </script>
-
+    -->
     </body>
 </html>
