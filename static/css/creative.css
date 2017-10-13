@@ -236,6 +236,19 @@ header a {
     color: #ffffff;
 }
 
+.text a {
+    color: #299924;
+    text-decoration: underline;
+}
+
+.german {
+    background-image: url('/img/flag-de.png');
+    background-repeat: no-repeat;
+    background-position: 2px 5px;
+    padding-left: 25px;
+    display: block;
+}
+
 @media(min-width:768px) {
     header {
         min-height: 100%;
