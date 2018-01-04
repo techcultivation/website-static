@@ -37,19 +37,19 @@ address = ["Gottschedstrasse 4", "13357 Berlin", "Germany"]
     icon = "file-pdf-o"
 
 [[team.member]]
-    name = "Stephan Urbach"
-    photo = "tomate.jpg"
-	text = "Stephan Urbach is a trained and certified accountant and spent the last years as finance officer of several associations. He was part of Telecomix working in the field of free communication, Internet Freedom and human rights and knows the pains of activist groups to handle funding and spending money. In the last 15 years he was volunteering in various local and international groups."
+    name = "Susanne Eiswirt"
+    photo = "susanne.jpg"
+    text = ""
 
 [[team.member]]
     name = "Moritz Bartl"
 	photo = "moritz.jpg"
-    text = "Moritz Bartl serves as the Director of the Renewable Freedom Foundation. Active in the free software and hacker community for over 15 years, he is a core member of the Tor project, a fellow at the Hermes Center for Transparency, and works in close partnerships with international NGOs in both technology and tech policy areas. He studied computer science at TU Dresden, with a focus on privacy & anonymity, software engineering, project management, and machine learning. His project torservers.net brings together over 20 non-profit organizations in 14 countries, many of which were newly created for this purpose."
+    text = ""
 
 [[team.member]]
-    name = "Martin Modlinger"
+    name = "Dr. Martin Modlinger"
 	photo = "martin.jpg"
-    text = "Dr. Martin Modlinger is Director of Science and Culture at Renewable Freedom Foundation. In this position, he seeks to connect human rights activists and digital rights hackers with scholars, journalists, and the general public, in order to protect and preserve civil liberties, especially in the digital landscape. In the past, as a (cultural) historian by trade, he has dealt with utopian and dystopian visions in philosophy, literature, and history. Now he sees his role in translating visions of a better world into reality. He holds a PhD in German (History & Culture) from the University of Cambridge, and still picks up a book from time to time."
+    text = ""
 
 [[team.member]]
     name = "muesli"
@@ -60,6 +60,11 @@ address = ["Gottschedstrasse 4", "13357 Berlin", "Germany"]
     name = "morbi"
     photo = "morbi.png"
     text = "Frontend developer / Polymer"
+
+[[team.member]]
+    name = "Profpatsch"
+    photo = "profpatsch.png"
+    text = ""
 
 [[board.member]]
     name = "Claudio 'vecna' Agosti"
