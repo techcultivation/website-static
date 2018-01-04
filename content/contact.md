@@ -82,6 +82,10 @@ address = ["Gottschedstrasse 4", "13357 Berlin", "Germany"]
     affiliation = "Free Software Foundation Europe"
 
 [[board.member]]
+    name = "Holger Krekel"
+    affiliation = "merlinux GmbH (Germany)"
+
+[[board.member]]
     name = "Dr. Martin Krafft"
     affiliation = "Debian developer (Germany)"
 
