@@ -9,32 +9,32 @@ address = ["Gottschedstrasse 4", "13357 Berlin", "Germany"]
 [[contact.info]]
     link = ""
     text = 'contact<span class="hidden">.nospam</span>@techcultivation.org'
-    icon = "envelope"
+    icon = "fas fa-envelope"
 
 [[contact.info]]
     link = "irc://irc.oftc.net/#techcultivation"
     text = "#techcultivation on irc.oftc.net"
-    icon = "group"
+    icon = "far fa-comments"
 
 [[contact.info]]
     link = "https://gitlab.techcultivation.org/"
     text = "techcultivation on GitLab"
-    icon = "github"
+    icon = "fab fa-gitlab"
 
 [[contact.info]]
-    link = "https://issues.techcultivation.org/projects/cct-orga/issues?query_id=1"
-    text = "open tickets on issue tracker"
-    icon = "list-ol"
+    link = "donate.html"
+    text = "donate"
+    icon = "fas fa-hand-holding-usd"
 
 [[contact.info]]
     link = "tel:+49301208359601"
     text = "+49-30-120835-9601"
-    icon = "phone"
+    icon = "fas fa-phone"
 
 [[contact.info]]
     link = "/docs/cct-whitepaper.pdf"
     text = "whitepaper (pdf)"
-    icon = "file-pdf-o"
+    icon = "fas fa-file-pdf"
 
 [[team.member]]
     name = "Susanne Eiswirt"

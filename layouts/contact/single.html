@@ -39,7 +39,7 @@
                         {{ if ne $contact.link "" }}
                         <a href="{{ $contact.link | safeURL }}">
                         {{ end }}
-                          <i class="fa fa-{{ $contact.icon }} fa-3x wow bounceIn" data-wow-delay=".1s"></i><br/>
+                          <i class="{{ $contact.icon }} fa-3x wow bounceIn" data-wow-delay=".1s"></i><br/>
                           {{ .text | safeHTML }}
                         {{ if ne $contact.link "" }}
                         </a>

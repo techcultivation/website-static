@@ -48,21 +48,21 @@ description = "We are ready for your project if you need <a href=\"contact.html\
 headline = "Overview"
  
 [[params.overview.list]]
-icon = "fa-heart-o"
+icon = "far fa-heart"
 title = "Donations"
 description = "Receive donations via various payment processors and fundraising platforms."
  
 [[params.overview.list]]
-icon = "fa-money"
+icon = "far fa-money-bill-alt"
 title = "Budget management"
 description = "Manage and allocate budgets, process reimbursements, contract and employ internationally."
  
 [[params.overview.list]]
-icon = "fa-cubes"
+icon = "fas fa-cubes"
 title = "Asset Stewardship"
 description = "The Center can hold assets for a project, such as domain names, trademarks and copyright."
  
 [[params.overview.list]]
-icon = "fa-commenting"
+icon = "far fa-comment-dots"
 title = "Expert Network"
 description = "Knowledge sharing and exchange."
