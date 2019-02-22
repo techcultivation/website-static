@@ -531,6 +531,8 @@ body {
 
 .img-logo {
     max-height: 100px;
+    padding-top: 30px;
+    vertical-align: middle;
 }
 
 .img-center {
