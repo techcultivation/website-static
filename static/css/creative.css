@@ -538,3 +538,8 @@ body {
 .img-center {
     margin: 0 auto;
 }
+
+.alumni-box img {
+    width: 80%;
+    height: 80%;
+}

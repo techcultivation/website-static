@@ -30,6 +30,37 @@
     </div>
 </section>
 
+<section id="alumni">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">Alumni</h2>
+                <hr class="primary">
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            {{ range $index, $contact := .Params.alumni.member }}
+            {{ if eq (mod $index 2) 0 }}
+            <div class="clearfix visible-md-block"></div>
+            {{ end }}
+            <div class="col-lg-4 col-md-6 text-center">
+                <div class="alumni-box">
+                    <h3>{{ .name }}</h3>
+                    <p>
+                        <img src="img/{{ .photo }}" class="img-responsive center-block" alt="Photo of {{.name }}">
+                    </p>
+                    <p class="text-muted text-justify">
+                        {{ .text }}
+                    </p>
+                </div>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section>
+
  {{ "<!-- BOARD -->" | safeHTML }}
 <section id="board">
     <div class="container">

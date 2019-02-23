@@ -36,10 +36,27 @@ address = ["Gottschedstrasse 4", "13357 Berlin", "Germany"]
     text = "whitepaper (pdf)"
     icon = "fas fa-file-pdf"
 
-[[team.member]]
+[[alumni.member]]
     name = "Susanne Eiswirt"
     photo = "susanne.jpg"
     text = ""
+
+[[alumni.member]]
+    name = "tomate"
+    photo = "tomate.jpg"
+    text = ""
+
+[[team.member]]
+    name = "Daniel Greiser"
+    photo = "daniel.jpg"
+
+[[team.member]]
+    name = "Philipp Berg"
+    photo = "philipp.jpg"
+
+[[team.member]]
+    name = "Kilian Drechsler"
+    photo = "kilian.jpg"
 
 [[team.member]]
     name = "Moritz Bartl"
@@ -54,16 +71,21 @@ address = ["Gottschedstrasse 4", "13357 Berlin", "Germany"]
 [[team.member]]
     name = "muesli"
     photo = "muesli.png"
-    text = "Backend developer / Go"
+    text = ""
 
-[[team.member]]
+[[alumni.member]]
     name = "morbi"
     photo = "morbi.png"
-    text = "Frontend developer / Polymer"
+    text = ""
 
-[[team.member]]
+[[alumni.member]]
     name = "Profpatsch"
     photo = "profpatsch.png"
+    text = ""
+
+[[alumni.member]]
+    name = "Matija"
+    photo = "matija.jpg"
     text = ""
 
 [[board.member]]
