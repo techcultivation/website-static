@@ -201,4 +201,41 @@ address = ["Gottschedstrasse 4", "13357 Berlin", "Germany"]
     logo = "ocamllabs.png"
     name = "OCaml Labs"
     text = "OCaml Labs"
+
+[[partner]]
+    logo = "accessibility-foundation.jpg"
+    name = "Accessibility Foundation"
+
+[[partner]]
+    logo = "apc.png"
+    name = "Association for Progressive Communications"
+
+[[partner]]
+    logo = "commonscaretakers.png"
+    name = "Commons Caretakers"
+
+[[partner]]
+    logo = "ethz-netsec.jpg"
+    name = "Network Security Group at ETH Zürich"
+
+[[partner]]
+    logo = "fsfe.svg"
+    name = "Free Software Foundation Europe"
+
+[[partner]]
+    logo = "ifross.png"
+    name = "ifrOSS | Institut für Rechtsfragen der Freien und Open Source Software"
+
+[[partner]]
+    logo = "nixos-foundation.png"
+    name = "NixOS Foundation"
+
+[[partner]]
+    logo = "petitessingularites.png"
+    name = "Petites Singularités"
+
+[[partner]]
+    logo = "radicallyopensecurity.gif"
+    name = "Radically Open Security"
+
 +++
