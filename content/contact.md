@@ -163,4 +163,42 @@ address = ["Gottschedstrasse 4", "13357 Berlin", "Germany"]
 [[board.member]]
     name = "Matija Šuklje"
     affiliation = "(Slovenia)"
+
+[[partner]]
+    logo = "prototypefund.jpg"
+    name = "Prototype Fund"
+
+[[partner]]
+    logo = "renewablefreedomfoundation.png"
+    name = "Renewable Freedom"
+
+[[partner]]
+    logo = "mozilla.png"
+    name = "Mozilla"
+
+[[partner]]
+    logo = "opentechnologyfund.png"
+    name = "Open Technology Fund"
+
+[[partner]]
+    logo = "ford.svg"
+    name = "Ford Foundation"
+
+[[partner]]
+    logo = "isc-project.png"
+    name = "The ISC Project"
+
+[[partner]]
+    logo = "eu-flag.jpg"
+    name = "European Flag"
+    text = "Horizon 2020 research and innovation programme"
+
+[[partner]]
+    logo = "nlnet.gif"
+    name = "NLnet"
+
+[[partner]]
+    logo = "ocamllabs.png"
+    name = "OCaml Labs"
+    text = "OCaml Labs"
 +++
