@@ -25,7 +25,7 @@ hr.light {
 }
 
 a {
-    color: #395839;
+    color: #3ff558;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -33,16 +33,23 @@ a {
 
 a:hover,
 a:focus {
-    color: #eb3812;
+    color: #ff6744;
 }
 
-#about a {
-    color: rgba(52, 52, 52, .7);
+header a:hover,
+header a:focus {
+    color: #ff6744;
 }
 
-#about a:hover,
-#about a:focus {
-    color: rgb(52, 52, 52);
+#contact a {
+    color: #ffffff;
+    -webkit-transition: all .35s;
+    -moz-transition: all .35s;
+    transition: all .35s;
+}
+
+#contact a:hover, #contact a:focus {
+    color: #ff6744;
 }
 
 h1,
@@ -230,15 +237,6 @@ header .header-content .header-content-inner p {
     font-size: 16px;
     font-weight: 300;
     color: rgba(255,255,255,.7);
-}
-
-header a {
-    color: #ffffff;
-}
-
-.text a {
-    color: #299924;
-    text-decoration: underline;
 }
 
 .german {

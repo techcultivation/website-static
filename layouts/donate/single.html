@@ -7,7 +7,7 @@
         {{ partial "nav.html" . }}
         <header>
 
-        <section id="contact">
+        <section id="donate">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2 text">
@@ -21,11 +21,23 @@ The Center for the Cultivation of Technology is a German charity, which means th
 For other European countries and larger donations, we're happy to provide individual donation receipts and work with you on their recognition. For that, please send us your full name and postal address and the date of your transaction to <code>donate<span class="hidden">.nospam</span>@techcultivation.org</code>.
                         </p>
                         <p class="text-left german">Wir sind eine gemeinnützige Organisation, somit können Spenden an uns europaweit von der Steuer abgesetzt werden. Für Spenden bis 200€ reicht der Kontoauszug zusammen mit <a href="documents/cct-vereinfachter-spendennachweis.pdf">unserem vereinfachten Spendennachweis</a>, für größere Spenden schicke uns bitte deine Postanschrift und das Datum der Spende.</p>
+                        <p class="text-left">
+                            We are currently developing a donation platform that will support donations to many more of our projects. It will not only support wire transfer but also donations via credit card, Paypal, Bitcoin and gift vouchers.
+                        </p>
                     </div>
                 </div>
-
                 <div class="row">
-                <div class="col-lg-8 col-lg-offset-2 text-left text">
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center">
+                        <a href="#tails" class="btn btn-primary btn-xl page-scroll">Donate to Tails</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+        </header>
+        <section id="tails">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2 text-left text">
                     <h3>Donate to Tails</h3>
                     <hr>
                     <p>To donate to the Tails project via SEPA wire transfer, use:</p>
@@ -52,10 +64,10 @@ For other European countries and larger donations, we're happy to provide indivi
                     <p>
                     We are working on support for donations by credit card, Paypal, Bitcoin and gift vouchers.
                     </p>
-                </div>
+                    </div>
                 </div>
                 <div class="row">
-                <div class="col-lg-8 col-lg-offset-2 text-left text">
+                    <div class="col-lg-8 col-lg-offset-2 text-left text">
                     <h3>Privacy Policy</h3>
                     <hr>
                     <p>We do not record IP addresses. We do not even share your data with the affiliated projects without your explicit permission, and we won't send you any communication apart from what is necessary to process your donation (no, we won't sign you up automatically for any newsletters).
@@ -65,11 +77,10 @@ For other European countries and larger donations, we're happy to provide indivi
                     </p>
                     <p>
                     The transaction codes listed above help us map donations to projects, but they are static per project and are not generated individually.
+                    </div>
                 </div>
-                <div>
             </div>
         </section>
-        </header>
 
         {{ partial "subscribe.html" . }}
 
