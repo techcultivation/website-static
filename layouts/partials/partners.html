@@ -1,0 +1,19 @@
+{{ "<!-- PARTNERS -->" | safeHTML }}
+<section id="partners">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">Partners</h2>
+                <hr class="primary">
+            </div>
+        </div>
+        <div class="row">
+            {{ range .Params.partner }}
+            <div class="col-xs-12 col-sm-4 col-lg-4 text-center">
+                <img src="/img/logos/{{ .logo }}" class="img-logo img-center img-responsive" alt="{{ .name }}">
+                {{ .text }}
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section>
