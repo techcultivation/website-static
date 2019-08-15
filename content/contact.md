@@ -219,7 +219,7 @@ address = ["Gottschedstrasse 4", "13357 Berlin", "Germany"]
     name = "Network Security Group at ETH Zürich"
 
 [[partner]]
-    logo = "fsfe.svg"
+    logo = "fsfe.png"
     name = "Free Software Foundation Europe"
 
 [[partner]]
