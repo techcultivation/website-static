@@ -36,7 +36,7 @@ address = ["Gottschedstrasse 4", "13357 Berlin", "Germany"]
     text = "whitepaper (pdf)"
     icon = "fas fa-file-pdf"
 
-[[alumni.member]]
+[[team.member]]
     name = "Susanne Eiswirt"
     photo = "susanne.jpg"
     text = ""
@@ -46,7 +46,7 @@ address = ["Gottschedstrasse 4", "13357 Berlin", "Germany"]
     photo = "tomate.jpg"
     text = ""
 
-[[team.member]]
+[[alumni.member]]
     name = "Daniel Greiser"
     photo = "daniel.jpg"
 
@@ -219,7 +219,7 @@ address = ["Gottschedstrasse 4", "13357 Berlin", "Germany"]
     name = "Network Security Group at ETH Zürich"
 
 [[partner]]
-    logo = "fsfe.png"
+    logo = "fsfe.svg"
     name = "Free Software Foundation Europe"
 
 [[partner]]
