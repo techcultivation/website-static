@@ -5,6 +5,9 @@ theme = "hugo-creative-theme"
 relativeURLs = true
 uglyurls = true
 
+[markup.goldmark.renderer]
+unsafe = true
+
 [params]
 name = "Center for the Cultivation of Technology"
 description = "a non-profit home for open source projects"
