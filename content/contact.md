@@ -1,7 +1,7 @@
 +++
 title = "Contact"
 description = "Center for the Cultivation of Technology<br/>gemeinnuetzige GmbH"
-regdata = "Handelsregister Berlin Charlottenburg, HRB 180673 B. CEO: Moritz Bartl."
+regdata = "Handelsregister Berlin Charlottenburg, HRB 180673 B. Directors: Moritz Bartl, Martin Modlinger."
 
 type = "contact"
 address = ["Gottschedstrasse 4", "13357 Berlin", "Germany"]
