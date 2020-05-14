@@ -98,7 +98,7 @@ address = ["Gottschedstrasse 4", "13357 Berlin", "Germany"]
 
 [[board.member]]
     name = "hellekin"
-    affiliation = "Dyne.org Foundation (Netherlands)"
+    affiliation = "Petites Singularités (Belgium/France)"
 
 [[board.member]]
     name = "Allen 'gunner' Gunn"
