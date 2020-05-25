@@ -22,7 +22,7 @@
                                 <address>
                                     {{ delimit .Params.address "<br/>" }}
                                 </address>
-                                <p class="regdata">{{ .Params.regdata }}</p>
+                                <p class="regdata">{{ .Params.regdata | markdownify }}</p>
                             </div>
                         </div>
                     </div>
