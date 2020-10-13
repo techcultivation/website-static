@@ -118,7 +118,7 @@ address = ["Gottschedstrasse 4", "13357 Berlin", "Germany"]
 
 [[board.member]]
     name = "Beatrice Martini"
-    affiliation = "Aspiration Tech (Germany)"
+    affiliation = "Access Now (Germany)"
 
 [[board.member]]
     name = "Ben Nickolls"
