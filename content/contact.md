@@ -89,8 +89,8 @@ address = ["Gottschedstrasse 4", "13357 Berlin", "Germany"]
     text = ""
 
 [[board.member]]
-    name = "Claudio 'vecna' Agosti"
-    affiliation = "Tactical Tech, Globaleaks (Germany)"
+    name = "Claudio Agosti"
+    affiliation = "Tracking Exposed (Italy)"
 
 [[board.member]]
     name= "Mario Behling"
