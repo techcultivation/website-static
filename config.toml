@@ -24,6 +24,10 @@ brand = "Center for the Cultivation of Technology"
     text = "Subscribe to News"
 
 [[params.navigation.links]]
+    url = "./donate.html"
+    text = "Donate"
+
+[[params.navigation.links]]
     url = "./#overview"
     text = "Overview"
 
