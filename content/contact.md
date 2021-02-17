@@ -36,10 +36,10 @@ address = ["Gottschedstrasse 4", "13357 Berlin", "Germany"]
     text = "whitepaper (pdf)"
     icon = "fas fa-file-pdf"
 
-[[team.member]]
-    name = "Susanne Eiswirt"
-    photo = "susanne.jpg"
-    text = ""
+# [[team.member]]
+#    name = "Susanne Eiswirt"
+#    photo = "susanne.jpg"
+#    text = ""
 
 [[alumni.member]]
     name = "tomate"
@@ -50,7 +50,7 @@ address = ["Gottschedstrasse 4", "13357 Berlin", "Germany"]
     name = "Daniel Greiser"
     photo = "daniel.jpg"
 
-[[team.member]]
+[[alumni.member]]
     name = "Philipp Berg"
     photo = "philipp.jpg"
 
@@ -104,9 +104,9 @@ address = ["Gottschedstrasse 4", "13357 Berlin", "Germany"]
     name = "Allen 'gunner' Gunn"
     affiliation = "Aspiration Tech (USA)"
 
-[[board.member]]
-    name = "Matthias Kirschner"
-    affiliation = "Free Software Foundation Europe"
+# [[board.member]]
+#    name = "Matthias Kirschner"
+#    affiliation = "Free Software Foundation Europe"
 
 [[board.member]]
     name = "Holger Krekel"
