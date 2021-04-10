@@ -17,7 +17,7 @@ address = ["Gottschedstrasse 4", "13357 Berlin", "Germany"]
     icon = "far fa-comments"
 
 [[contact.info]]
-    link = "https://gitlab.techcultivation.org/"
+    link = "https://gitlab.com/"
     text = "techcultivation on GitLab"
     icon = "fab fa-gitlab"
 
