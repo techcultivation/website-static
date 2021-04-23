@@ -36,10 +36,10 @@ address = ["Gottschedstrasse 4", "13357 Berlin", "Germany"]
     text = "whitepaper (pdf)"
     icon = "fas fa-file-pdf"
 
-# [[team.member]]
-#    name = "Susanne Eiswirt"
-#    photo = "susanne.jpg"
-#    text = ""
+[[team.member]]
+    name = "Susanne Eiswirt"
+    photo = "susanne.jpg"
+    text = ""
 
 [[alumni.member]]
     name = "tomate"
