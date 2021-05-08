@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+    <head>
+        {{ partial "head.html" . }}
+    </head>
+    <body id="page-top">
+        {{ partial "nav.html" . }}
+        <header>
+
+        <section id="contact">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2 text-center">
+                        <h2 class="section-heading">{{ .Title }}</h2>
+                        <hr class="primary">
+                        <p>{{ .Description | markdownify }}</p>
+                    </div>
+                </div>
+
+                <div class="row">
+                    {{ range .Params.job }}
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center">
+                        <a href="#tails" class="btn btn-primary btn-xl page-scroll">{{ .position }}</a>
+                    </div>
+                    {{ end }}
+                </div>
+
+                {{ .Content }}
+
+            </div>
+
+        </section>
+        </header>
+
+{{ partial "subscribe.html" . }}
+{{ partial "js.html" . }}
+
+</body>
+</html>
+
