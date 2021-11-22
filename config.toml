@@ -20,10 +20,6 @@ favicon = "favicon.ico"
 brand = "Center for the Cultivation of Technology"
 
 [[params.navigation.links]]
-    url = "./jobs.html"
-    text = "* Jobs *"
-
-[[params.navigation.links]]
     url = "./#subscribe"
     text = "Subscribe to News"
 

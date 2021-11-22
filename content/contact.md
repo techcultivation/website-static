@@ -1,7 +1,7 @@
 +++
 title = "Contact"
 description = "Center for the Cultivation of Technology<br/>gemeinnuetzige GmbH"
-regdata = "Executive Directors: Moritz Bartl, Martin Modlinger.<br/>Handelsregister Berlin Charlottenburg, HRB 180673 B. VAT ID DE308084816."
+regdata = "Executive Director: Kristina Klein.<br/>Handelsregister Berlin Charlottenburg, HRB 180673 B. VAT ID DE308084816."
 
 type = "contact"
 address = ["Gottschedstrasse 4", "13357 Berlin", "Germany"]
@@ -37,6 +37,16 @@ address = ["Gottschedstrasse 4", "13357 Berlin", "Germany"]
     icon = "fas fa-file-pdf"
 
 [[team.member]]
+    name = "Kristina Klein"
+    photo = "kristina.jpg"
+    text = ""
+
+[[team.member]]
+    name = "Tara Tarakiyee"
+    photo = "tara.jpg"
+    text = ""
+
+[[team.member]]
     name = "Susanne Eiswirt"
     photo = "susanne.jpg"
     text = ""
@@ -57,16 +67,6 @@ address = ["Gottschedstrasse 4", "13357 Berlin", "Germany"]
 [[team.member]]
     name = "Kilian Drechsler"
     photo = "kilian.jpg"
-
-[[team.member]]
-    name = "Moritz Bartl"
-	photo = "moritz.jpg"
-    text = ""
-
-[[team.member]]
-    name = "Dr. Martin Modlinger"
-	photo = "martin.jpg"
-    text = ""
 
 [[team.member]]
     name = "muesli"
