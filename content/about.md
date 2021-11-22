@@ -1,7 +1,7 @@
 +++
 title = "Contact"
 description = "Center for the Cultivation of Technology<br/>gemeinnuetzige GmbH"
-regdata = "Handelsregister Berlin Charlottenburg, HRB 180673 B. Directors: Moritz Bartl, Martin Modlinger."
+regdata = "Handelsregister Berlin Charlottenburg, HRB 180673 B. Directors: Kristina Klein."
 
 type = "about"
 address = ["Gottschedstrasse 4", "13357 Berlin", "Germany"]
@@ -59,10 +59,6 @@ address = ["Gottschedstrasse 4", "13357 Berlin", "Germany"]
 [[partner]]
     logo = "ethz-netsec.jpg"
     name = "Network Security Group at ETH Zürich"
-
-[[partner]]
-    logo = "fsfe.svg"
-    name = "Free Software Foundation Europe"
 
 [[partner]]
     logo = "ifross.png"
