@@ -545,3 +545,11 @@ body {
 .regdata {
     font-size: 80%;
 }
+
+.notice_rec
+{
+    font-weight: bold;
+    color: white;
+    background: #4CAF50;
+    padding: 5px 10px;
+}
