@@ -17,9 +17,10 @@ type = "single"
 > Felix Just, 40, works as a software developer and process designer. He founded the xHain hack+makespace in 2016 and has been managing it since.
 ### **Fiona Krakenbürger**
 > Fiona Krakenbürger has been a diversity activist for many years. She engaged in several projects to create more inclusive and diverse spaces in the tech and hacking community. In 2016, she was part of a group that founded the Heart of Code, a feminist hackspace based in Berlin. 
-### Issa Khatib
-> Issa Khatib studied aerospace engineering at the TU Berlin. Since 2016 he has been building decentralised cultural and community spaces in the city. Now he works as programme director for the Arab Digital Expression Foundation."
-
+### **Issa Khatib**
+> Issa Khatib studied aerospace engineering at the TU Berlin. Since 2016 he has been building decentralised cultural and community spaces in the city. Now he works as programme director for the Arab Digital Expression Foundation.
+### **Ferdous Nasri**
+> Ferdous Nasri is a software developer and bioinformatician. She is the lead organiser in code curious, an organisation formerly known as Rails Girls Berlin, established in 2012, which offers free coding workshops to women*. She is passionate about building diverse coding communities.
 ---
 
 ## **Join the online panel at this link:** https://bbb.techcultivation.org/b/tar-vfl-k4t-ouz
