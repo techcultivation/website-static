@@ -31,9 +31,9 @@ brand = "Center for the Cultivation of Technology"
     url = "./#overview"
     text = "Overview"
 
-[[params.navigation.links]]
-    url = "./contact.html#team"
-    text = "Team"
+#[[params.navigation.links]]
+#    url = "./contact.html#team"
+#    text = "Team"
 
 [[params.navigation.links]]
     url = "./contact.html"

@@ -1,7 +1,7 @@
 +++
 title = "Contact"
 description = "Center for the Cultivation of Technology<br/>gemeinnuetzige GmbH"
-regdata = "Executive Director: Kristina Klein.<br/>Handelsregister Berlin Charlottenburg, HRB 180673 B. VAT ID DE308084816."
+regdata = "Executive Director: Brian Osborn.<br/>Handelsregister Berlin Charlottenburg, HRB 180673 B. VAT ID DE308084816."
 
 type = "contact"
 address = ["Gottschedstrasse 4", "13357 Berlin", "Germany"]
@@ -11,10 +11,10 @@ address = ["Gottschedstrasse 4", "13357 Berlin", "Germany"]
     text = 'contact<span class="hidden">.nospam</span>@techcultivation.org'
     icon = "fas fa-envelope"
 
-[[contact.info]]
-    link = "irc://irc.oftc.net/#techcultivation"
-    text = "#techcultivation on irc.oftc.net"
-    icon = "far fa-comments"
+#[[contact.info]]
+#    link = "irc://irc.oftc.net/#techcultivation"
+#    text = "#techcultivation on irc.oftc.net"
+#    icon = "far fa-comments"
 
 [[contact.info]]
     link = "https://www.gitlab.com/techcultivation/"
@@ -26,10 +26,10 @@ address = ["Gottschedstrasse 4", "13357 Berlin", "Germany"]
     text = "donate"
     icon = "fas fa-hand-holding-usd"
 
-[[contact.info]]
-    link = "tel:+49301208359601"
-    text = "+49-30-120835-9601"
-    icon = "fas fa-phone"
+# [[contact.info]]
+#    link = "tel:+49301208359601"
+#    text = "+49-30-120835-9601"
+#    icon = "fas fa-phone"
 
 [[contact.info]]
     link = "/docs/cct-whitepaper.pdf"
@@ -163,6 +163,10 @@ address = ["Gottschedstrasse 4", "13357 Berlin", "Germany"]
 [[board.member]]
     name = "Matija Šuklje"
     affiliation = "(Slovenia)"
+
+[[partner]]
+    logo = "fsfe.svg"
+    name = "Free Software Foundation Europe"
 
 [[partner]]
     logo = "prototypefund.jpg"
